@@ -1,4 +1,4 @@
-token=NTA0NTU4NzE5Mjg4MjEzNTA0.DrGy6w.aTB-bfQhPQ8r3s6Q6vseL05g6f4
+token=NTA0NTYwNTEyMTUxODQ2OTM2.DrG0VQ.tZLLKhfFsvLKsr5vHfmlXlDspoY
 owner=469546024839413764
 prefix=2
 game=Type 2play
